@@ -276,3 +276,26 @@ h2 {
   font-size: 11px;
   cursor: pointer;
 }
+
+/* Footer */
+
+footer {
+  text-align: center;
+}
+
+.payment-list > li {
+  display: inline-block;
+  margin: 2vh 5vw;
+  vertical-align: middle;
+}
+
+footer h5 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 1vh 0;
+}
+
+.nav-list > li {
+  padding: 1vh 0;
+  border: 1px solid red;
+}
